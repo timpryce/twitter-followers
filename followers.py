@@ -10,7 +10,7 @@ from sys import stdout
 
 ##### settings #####
 
-twitter_user = 'twitter_user'
+twitter_user = 'heflocalfood'
 oauth_req_key = 'oauth_req_key'
 oauth_req_sec = 'oauth_req_sec'
 oauth_consumer_key = 'oauth_consumer_key'
